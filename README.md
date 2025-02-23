@@ -1,0 +1,2 @@
+# SilentCodingLegend
+Ai Coding Assistant
